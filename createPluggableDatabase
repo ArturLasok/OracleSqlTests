@@ -1,0 +1,3 @@
+Create pluggable database arturpdb
+admin user artur_adm IDENTIFIED BY "password"
+CREATE_FILE_DEST='c:\app\artur\product\21c\oradata';
