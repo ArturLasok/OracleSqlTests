@@ -1,4 +1,4 @@
-# OracleSqlTests
+# OracleSqlTests (Windows server 2019)
 Oracle Sql Tests
 
 Get:
