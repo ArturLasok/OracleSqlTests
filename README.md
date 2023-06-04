@@ -32,4 +32,4 @@ https://www.oracle.com/database/sqldeveloper/technologies/download/
 
 1. Create pluggable database arturpdb and set admin user artur_adm
 2. Set arturpdb open to read and write
-3. Create user C#arturlasok and grad all privileges  
+3. Create user C##arturlasok and grad all privileges  
