@@ -26,3 +26,6 @@ SQL> SHOW con_name;
 CON_NAME
 ------------------------------
 CDB$ROOT
+
+or get:
+https://www.oracle.com/database/sqldeveloper/technologies/download/
