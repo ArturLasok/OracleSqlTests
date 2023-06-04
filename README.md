@@ -8,8 +8,8 @@ https://docs.oracle.com/en/database/oracle/oracle-database/21/install-and-upgrad
 
 Connection information provided:
 
-Multitenant container database: localhost:1521 CDB. n\
-Pluggable database: localhost:1521/XEPDB1 PDB  n\
+Multitenant container database: localhost:1521 CDB. \
+Pluggable database: localhost:1521/XEPDB1 PDB  \
 EM Express URL: https://localhost:5500/em 
 
 Open port 1521:
