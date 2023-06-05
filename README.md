@@ -33,3 +33,6 @@ https://www.oracle.com/database/sqldeveloper/technologies/download/
 1. Create pluggable database arturpdb and set admin user artur_adm
 2. Set arturpdb open to read and write
 3. Create user C##arturlasok and grad all privileges  
+4. Get sample database schema https://www.oracletutorial.com/getting-started/oracle-sample-database/
+5. Con as C##arturlasok and execute SQL>@c:\path_to_file\ot_schema.sql
+6. 
