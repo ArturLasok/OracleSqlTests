@@ -36,4 +36,4 @@ https://www.oracle.com/database/sqldeveloper/technologies/download/
 4. Get sample database schema https://www.oracletutorial.com/getting-started/oracle-sample-database/
 5. Con as C##arturlasok and execute SQL>@c:\path_to_file\ot_schema.sql
 6. Exec @c:\dbsample\ot_data.sql
-7. QUERIES TO THE DATABASE :)
+7. QUERIES TO THE DATABASE :) https://github.com/ArturLasok/OracleSqlTests/blob/4f2b87d60374376d1b2ee2e14e6cd4e88097b98d/simpleQueries
