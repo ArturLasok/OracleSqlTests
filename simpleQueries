@@ -1,0 +1,4 @@
+-- Ilość pracowników na stanowisku z grupowaniem wg managera
+select count(manager_id) as number_of_employees,job_title, (select last_name from employees where employee_id = a.manager_id) as supervisor_of_employees from employees a
+group by manager_id,job_title having job_title = 'Programmer'
+
