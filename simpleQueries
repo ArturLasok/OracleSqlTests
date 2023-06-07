@@ -11,4 +11,6 @@ select sum(oi.quantity*oi.unit_price) as wartosc, oo.customer_id customer_id,
 from order_items oi,orders oo where oi.order_id=oo.order_id 
 group by oo.customer_id order by wartosc desc fetch first 3 ROWS ONLY
 
-
+-- zamowienia i employee imie nazwisko
+select orders.order_id as id_zamowienia,(employees.first_name || ' ' || employees.last_name )as imie_nazwisko_sprzedawcy 
+from orders inner join employees on orders.salesman_id = employees.employee_id
